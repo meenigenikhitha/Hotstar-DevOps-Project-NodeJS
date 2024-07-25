@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: hotstar
-        image: veeranarni/hotstar:latest
+        image: 471112881623.dkr.ecr.ap-south-1.amazonaws.com/vasu
         ports:
         - containerPort: 3000  # Port your application listens on
